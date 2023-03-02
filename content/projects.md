@@ -18,3 +18,10 @@ author = "John Gorriceta"
     <p class="lead">CometNotes is the fastest way for you to generate flashcards. Coupled with a distraction free UI, memorize you flashcards with ease and ace your tests.</p>
 </div>
 </a>
+
+<a href="https://learnari.com/" target="blank">
+<div class="links mb-3 p-3 mw-100 rounded-4 shadow">
+    <p class="fw-bold h3">Ari.</p>
+    <p class="lead">Ari is web application created to help individuals review and solidify mental math concepts. It's writen with Svelte and TypeScript, utilizing Pico.CSS and custom CSS for styling.</p>
+</div>
+</a>
